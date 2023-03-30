@@ -1,0 +1,7 @@
+- Styled multiple panels to have a background image and a heading. 
+- Used Flexbox to align everything. 
+- Added JavaScript so that when we click one of the panels, it changes the class to active and it then expands with a CSS transition.
+- Used JavaScript for the Event Listeners.
+- Used CSS transitions to give it the smooth effect.
+- Ensured that the heading does not come in until the card is fully expanded.
+- The headings can be replaced with testimonials or FAQs. 
