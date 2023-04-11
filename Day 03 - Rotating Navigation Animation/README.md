@@ -1,0 +1,6 @@
+- Creating a simple article, any website or blog. 
+- On clicking the navigation icon on the top-left corner of the screen, the entire website is rotated. 
+- The navigation items from the side and the icons also changes. 
+- There are two icons: open and close. The icons are so positioned that when clicked, the circle rotated and shows the close button. 
+- Mostly used CSS to style the different elements. 
+- When the show nav class is present, the only JavaScript really used is to add or move the class when the button is clicked. 
